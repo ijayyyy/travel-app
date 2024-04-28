@@ -42,7 +42,8 @@ nav {
   }
   
   .nav-links:hover {
-    background-color: #01959a;
+    background-color: #0065fe;
+    color: #000;;
     color: #fff;
     border-radius: 4px;
     transition: all 0.2s ease-in-out;
@@ -94,7 +95,7 @@ nav {
       transition: 0.3s ease-in-out;
     }
     .nav-links {
-      display: block;
+      display:  block;
       width: 100%;
       font-size: 1.2rem;
       padding: 2rem 0;
